@@ -11,8 +11,8 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
- 
- body {background-image: url(/pictrs/image/mintybubble2560x1600.wallpaper.jpg); background-attachment:fixed; background-size: cover; background-position: center;}
+
+body {background-image: url(/pictrs/image/mintybubble2560x1600.wallpaper.jpg); background-attachment:fixed; background-size: cover; background-position: center;}
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
@@ -9912,7 +9912,7 @@ border-radius: 20px;
 border-color:#c6c6c6;
    border-style: solid;
 }
-.navbar {background: white;}
+.navbar, comments {background: white;}
 hr {opacity:0;}
 label.btn.btn-outline-secondary.pointer.false {
 background: white;
@@ -9932,7 +9932,7 @@ background: white;
 padding: 10px;
 border-radius: 20px;
 }
-.comments, .comment {
+.comments {
 background: white;
 padding: 5px;
 border-radius: 20px;
@@ -9963,4 +9963,11 @@ html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg
 }
 div.align-items-center:nth-child(2) > div:nth-child(1) > p:nth-child(1) {
     color: #5a5a5a;
+}
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8.mb-3 div div.comments div.comment div.comments {
+    padding: 0px;
+}
+div.comments:nth-child(1) {
+    padding-right: 10px;
+    padding-left: 10px;
 }
