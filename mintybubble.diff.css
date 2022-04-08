@@ -65,3 +65,6 @@ div.comments:nth-child(1) {
     padding-right: 10px;
     padding-left: 10px;
 }
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12 div div.comments {
+    margin-bottom:0.5rem;
+}
