@@ -63,3 +63,10 @@ div.comments:nth-child(1) {
     padding-right: 10px;
     padding-left: 10px;
 }
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8 div div.mb-3 div div.d-flex.align-items-center.mb-2 div.md-div p {
+    /*color: #ffd3d3;*/
+    color: lightgrey;
+} /* user description */
+.mark {
+    border-radius: 20px;
+}
