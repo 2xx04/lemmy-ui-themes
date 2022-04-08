@@ -50,10 +50,6 @@ html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg
 html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8.mb-3 div div.comments div.comment div.comments {
     padding: 0px;
 }
-div.comments:nth-child(1) {
-    padding-right: 10px;
-    padding-left: 10px;
-}
 .col-12.col-md-8, html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3.mb-4{
     background-color: rgb(0,0,0, 0.3);
 }
