@@ -3,7 +3,7 @@ custom lemmy themes for lemmy-ui
 
 ## Minty Bubble
 Based on the default lemmy theme minty
-![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/mintybubble.jpg)
+![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/mintybubble.png)
 
 ---
 
