@@ -58,7 +58,7 @@ div.comments:nth-child(1) {
     background-color: rgb(0,0,0, 0.3);
 }
 .mt-4, .my-4 {margin-top: 0rem !important;}
-html body div#root div div.mt-4.p-0.fl-1 div.container div.row main.col-12.col-md-8 div.main-content-wrapper, html body div#root div div.mt-4.p-0.fl-1 div.container div.row aside.d-none.d-md-block.col-md-4, div.col-12:nth-child(2), .d-md-block > div:nth-child(1) > div:nth-child(1) > div:nth-child(1), html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8.mb-3 div.post-listing, html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3.mb-4 h5, h5.mb-2, .nav, html body div#root div div.mt-4.p-0.fl-1 div.container div div.row div.col-md-6 h4, html body div#root div div.mt-4.p-0.fl-1 div.container div div.row div.col-md-6 div.float-md-right form.form-inline {
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row main.col-12.col-md-8 div.main-content-wrapper, html body div#root div div.mt-4.p-0.fl-1 div.container div.row aside.d-none.d-md-block.col-md-4, div.col-12:nth-child(2), .d-md-block > div:nth-child(1) > div:nth-child(1) > div:nth-child(1), html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8.mb-3 div.post-listing, html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3.mb-4 h5, h5.mb-2, .nav, html body div#root div div.mt-4.p-0.fl-1 div.container div div.row div.col-md-6 h4, html body div#root div div.mt-4.p-0.fl-1 div.container div div.row div.col-md-6 div.float-md-right form.form-inline,html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8 div div.position-relative.mb-2 {
     margin-top: 1.5rem;
 }
 .mark {
