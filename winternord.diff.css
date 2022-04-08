@@ -48,12 +48,6 @@ html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md
 html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3.mb-4 h5, html body div#root div div.mt-4.p-0.fl-1 div.container div h5 span {
     color: lightgrey;
 }
-.col-form-label {
-    color: #5a5a5a;
-}
-div.align-items-center:nth-child(2) > div:nth-child(1) > p:nth-child(1) {
-    color: #5a5a5a;
-}
 html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8.mb-3 div div.comments div.comment div.comments {
     padding: 0px;
 }
