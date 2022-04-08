@@ -8913,7 +8913,6 @@ html body div#root div nav.container.navbar.navbar-expand-md.navbar-light.navbar
     background: transparent;
 } /* Transparent Background color */
 html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3 form {
-    background-color: rgb(0,0,0,0.3);
     padding-right: 10px;
     padding-left: 10px;
 } /* Login Background color */
