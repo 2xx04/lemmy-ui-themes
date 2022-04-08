@@ -64,3 +64,6 @@ html body div#root div div.mt-4.p-0.fl-1 div.container div.row main.col-12.col-m
 html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12 div div.comments {
     margin-bottom: 0.5rem;
 }
+.mark {
+    background-color: #606b85;
+}
