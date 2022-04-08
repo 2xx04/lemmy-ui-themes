@@ -7,6 +7,10 @@ Based on the default lemmy theme Minty
 ## Winter Nord
 Based on the default lemmy theme Nord
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/winternord.png)
+## Dark Space
+Based on the default lemmy theme "Darkly", inspired by [Disqordia](https://disqordia.space) theme
+![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/darkspace.png)
+
 ---
 
 ### FOR INSTANCE OWNERS:

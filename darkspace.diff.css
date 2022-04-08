@@ -1,0 +1,77 @@
+body {
+    background-image: url(https://github.com/2xx04/lemmy-ui-themes/raw/main/pictrs/image/darkspace2560x1440.wallpaper.jpg); background-attachment:fixed; background-size: cover; background-position: center;}
+hr {opacity:0;}
+label.btn.btn-outline-secondary.pointer.false {
+    color: #fff ;
+}
+/* button colors */
+label.btn.btn-outline-secondary.pointer.active {
+    background-color: black;
+}
+.btn-secondary {
+    background-color: black;
+}
+select.custom-select.w-auto.mr-2.mb-2 {
+    background-color: black;
+}
+.my-3 {
+margin-top: 0.5rem !important;
+margin-bottom: 0.5rem !important;
+}
+h5.mb-0, h5.mb-2 {
+    color: white;
+}
+.comments {
+padding: 5px;
+border-radius: 4px;
+background: rgba(0,0,0, 0.6);
+}
+span.mr-2 {
+    color: var(--gray) !important;
+}
+html body div#root div nav.navbar.navbar-expand-lg.navbar-light.shadow-sm.p-0.px-3 {
+    background: #111;
+}
+.card {
+    background: rgba(0,0,0, 0.6);
+    border: 1px solid rgba(0,0,0) !important;
+}
+html body div#root div div.mt-4.p-0.fl-1 div.container div div.table-responsive table#community_table.table.table-sm.table-hover {
+    background: rgba(0,0,0, 0.6);
+}
+html body div#root div div.mt-4.p-0.fl-1 div.container div div.row div.col-md-6 h4 {
+    color: #c6c6c6;
+}
+html body div#root div nav.container.navbar.navbar-expand-md.navbar-light.navbar-bg.p-3 {
+    background: transparent;
+} /* Transparent Background color */
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3 form {
+    padding-right: 10px;
+    padding-left: 10px;
+} /* Login Background color */
+html body div#root div div.mt-4.p-0.fl-1 div.container div div.table-responsive table#modlog_table.table.table-sm.table-hover {
+    background-color: rgb(0,0,0, 0.6);
+} /* modlog background color*/
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8 div.mb-2 div.position-relative.mb-2 picture img.img-fluid.banner.img-expanded.slight-radius {
+    border-radius: 4px;
+}
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3.mb-4 h5, html body div#root div div.mt-4.p-0.fl-1 div.container div h5 span {
+    color: lightgrey;
+}
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8.mb-3 div div.comments div.comment div.comments {
+    padding: 0px;
+}
+div.comments:nth-child(1) {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.col-12.col-md-8, html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3.mb-4{
+    background-color: rgb(0,0,0, 0.6);
+}
+.mt-4, .my-4 {margin-top: 0rem !important;}
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row main.col-12.col-md-8 div.main-content-wrapper, html body div#root div div.mt-4.p-0.fl-1 div.container div.row aside.d-none.d-md-block.col-md-4, div.col-12:nth-child(2), .d-md-block > div:nth-child(1) > div:nth-child(1) > div:nth-child(1), html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8.mb-3 div.post-listing, html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3.mb-4 h5, h5.mb-2, .nav, html body div#root div div.mt-4.p-0.fl-1 div.container div div.row div.col-md-6 h4, html body div#root div div.mt-4.p-0.fl-1 div.container div div.row div.col-md-6 div.float-md-right form.form-inline,html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8 div div.position-relative.mb-2 {
+    margin-top: 1.5rem;
+}
+.mark {
+    background-color: rgba(43, 43, 43, 0.5);
+}
