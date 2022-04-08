@@ -2,9 +2,11 @@
 custom lemmy themes for lemmy-ui
 
 ## Minty Bubble
-Based on the default lemmy theme minty
+Based on the default lemmy theme Minty
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/mintybubble.png)
-
+## Winter Nord
+Based on the default lemmy theme Nord
+![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/winternord.png)
 ---
 
 ### FOR INSTANCE OWNERS:
