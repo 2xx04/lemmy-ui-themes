@@ -373,7 +373,7 @@ hr {
  margin-top:1rem;
  margin-bottom:1rem;
  border:0;
- border-top:1px solid rgba(0,0,0,.1)
+ border-top:1px solid rgba(256,256,256,.1)
 }
 .small,
 small {
@@ -8811,9 +8811,11 @@ a.text-dark:hover {
   color:inherit;
   border-color:#444
 }
-hr {opacity:0;}
 label.btn.btn-outline-secondary.pointer.false {
     color: #fff ;
+}
+hr.my-3 {
+    opacity: 0;
 }
 /* button colors */
 .my-3 {
