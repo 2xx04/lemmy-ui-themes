@@ -8883,9 +8883,11 @@ padding: 20px;
 border-radius: 4px;
 }
 .navbar, comments {background: #3b4252;}
-hr {opacity:0;}
 label.btn.btn-outline-secondary.pointer.false {
 background: #2e3440;
+}
+hr.my-3 {
+    opacity: 0;
 }
 .my-3 {
 margin-top: 0.5rem !important;
