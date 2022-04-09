@@ -5,6 +5,12 @@ hr {opacity:0;}
 label.btn.btn-outline-secondary.pointer.false {
     color: #fff ;
 }
+hr{
+    border-top: 1px solid rgba(256,256,256,.1)
+}
+hr.my-3 {
+    opacity: 0;
+}
 /* button colors */
 label.btn.btn-outline-secondary.pointer.active {
     background-color: black;
