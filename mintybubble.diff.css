@@ -33,6 +33,7 @@ border-radius: 20px;
 background: white;
 padding-left: 5px;
 padding-right: 5px;
+border-radius: 20px;
 }
 span.mr-2 {
     color: var(--gray) !important;
@@ -64,10 +65,6 @@ div.align-items-center:nth-child(2) > div:nth-child(1) > p:nth-child(1) {
 html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8.mb-3 div div.comments div.comment div.comments {
     padding: 0px;
 }
-div.comments:nth-child(1) {
-    padding-right: 10px;
-    padding-left: 10px;
-}
 html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8 div div.mb-3 div div.d-flex.align-items-center.mb-2 div.md-div p {
     /*color: #ffd3d3;*/
     color: lightgrey;
@@ -75,3 +72,5 @@ html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md
 .mark {
     border-radius: 20px;
 }
+.border-light {
+    border-color: transparent !important;}
