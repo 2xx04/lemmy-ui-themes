@@ -12,9 +12,11 @@ border-radius: 20px;
 border-style: solid;
 }
 .navbar {background: white;}
-hr {opacity:0;}
 label.btn.btn-outline-secondary.pointer.false {
 background: white;
+}
+hr.my-3 {
+    opacity: 0;
 }
 .my-3 {
 margin-top: 0.5rem !important;
