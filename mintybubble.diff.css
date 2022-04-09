@@ -1,3 +1,4 @@
+/* This theme is based on the available theme called "Minty", A slight modification to fit a wallpaper. Made by 2xx04 */
 body {background-image: url(https://github.com/2xx04/lemmy-ui-themes/raw/main/pictrs/image/mintybubble2560x1600.wallpaper.jpg); background-attachment:fixed; background-size: cover; background-position: center;}
 .post-listing {
 background: white;
