@@ -11,6 +11,11 @@ Based on the default lemmy theme Nord
 Based on the default lemmy theme "Darkly", inspired by [Disqordia](https://disqordia.space) theme
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/darkspace.png)
 
+## Lora
+Reading/Writing theme
+![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/lora.png)
+
+
 ---
 
 ### FOR INSTANCE OWNERS:
