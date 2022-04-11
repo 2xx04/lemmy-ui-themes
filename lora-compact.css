@@ -7160,3 +7160,6 @@ a.text-dark:hover, a.text-dark:focus {
 .toastify {
     color: black !important;
 }
+.rounded-circle.img-icon.mr-2 /*avatars and community icons*/, .banner, .avatar-overlay /*in profiles and community pages*/ {
+    display: none;
+} /* hide banners and avatars */
