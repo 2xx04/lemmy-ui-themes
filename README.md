@@ -12,10 +12,8 @@ Based on the default lemmy theme "Darkly", inspired by [Disqordia](https://disqo
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/darkspace.png)
 
 ## Lora
-Reading/Writing theme
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/lora.png)
 ### Distractionless/Compact
-Distractionless: Hides all images. Compact: Hides Avatars, Community Icons, and Banners
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/lora-distractionless.png)
 
 
