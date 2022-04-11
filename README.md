@@ -12,9 +12,7 @@ Based on the default lemmy theme "Darkly", inspired by [Disqordia](https://disqo
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/darkspace.png)
 
 ## Lora
-### Distractionless/Compact
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/lora-distractionless.png)
-
 
 ---
 
