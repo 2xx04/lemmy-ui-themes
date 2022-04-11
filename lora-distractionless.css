@@ -7169,3 +7169,6 @@ img.img-fluid.thumbnail.rounded, .img-fluid.img-expanded.slight-radius, html bod
 .comments img {
     display: none;
 } /*hide images in comments*/
+.col-sm-2.pr-0 {
+    display: none;
+} /*hide unused image div */
