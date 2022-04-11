@@ -1,0 +1,12 @@
+.rounded-circle.img-icon.mr-2 /*avatars and community icons*/, .banner, .avatar-overlay /*in profiles and community pages*/ {
+    display: none;
+} /* hide banners and avatars */
+img.img-fluid.thumbnail.rounded, .img-fluid.img-expanded.slight-radius, html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8.mb-3 div.post-listing div.col-12.card.my-2.p-2 div.md-div p img {
+    display: none;
+} /*hide post images*/
+.comments img {
+    display: none;
+} /*hide images in comments*/
+.col-sm-2.pr-0 {
+    display: none;
+} /*hide unused image div */
